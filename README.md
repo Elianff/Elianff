@@ -1,8 +1,9 @@
 # My name is Eliana 👋 
 ## she/her/hers
-### I’m currently a computer science major. I’m currently taking a Computer Science 101 class where I'm learning python. I would like to learn more about cybersecurity and game development. 
-### I like to play video games like Baldurs's Gate 3, Hades, Genshin (stockholm syndrome) and the random games I find on Steam and Itch.io
-### On a blue moon, I like to read books and even write my own self indulgent stories.
+### I’m currently an undergraduate computer science major, learning about data structures and systems programming.  
+### I like to play video games like Baldurs's Gate 3, Hades, Slay the Princess, Little Goody Two Shoes and the random games I find on Steam and Itch.io
+### On a blue moon, I like to read books and write stories. 
+### I'm working on practicing Renpy and drawing my own sprites. My next goal is to learn Godot.
 
 
 <!--
