@@ -1,9 +1,12 @@
 # My name is Eliana 👋 
 ## she/her/hers
-### I’m currently an undergraduate computer science major, learning about data structures and systems programming.  
+### I’m currently an undergraduate computer science major, learning about computer organization and programming languages.  
 ### I like to play video games like Baldurs's Gate 3, Hades, Slay the Princess, Little Goody Two Shoes and the random games I find on Steam and Itch.io
 ### On a blue moon, I like to read books and write stories. 
-### I'm working on practicing Renpy and drawing my own sprites. My next goal is to learn Godot.
+### I also make games! Look at my cute little visual novels on itch.io: https://alienshmalien.itch.io/
+### I am learning Unreal so some time in the future, prepare for a 3D flappy bird and a farming simulator/Tower Defense in space.
+### My ideas are vast and I may not have much time, but I will make as many true as I can.
+
 
 
 <!--
