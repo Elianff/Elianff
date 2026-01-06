@@ -1,11 +1,9 @@
 # My name is Eliana 👋 
 ## she/her/hers
-### I’m currently an undergraduate computer science major, learning about computer organization and programming languages.  
-### I like to play video games like Baldurs's Gate 3, Hades, Slay the Princess, Little Goody Two Shoes and the random games I find on Steam and Itch.io
-### On a blue moon, I like to read books and write stories. 
-### I also make games! Look at my cute little visual novels on itch.io: https://alienshmalien.itch.io/
-### I am learning Unreal so some time in the future, prepare for a 3D flappy bird and a farming simulator/Tower Defense in space.
-### My ideas are vast and I may not have much time, but I will make as many true as I can.
+### I’m currently an undergraduate Computer Science major with a minor in Media Studies.  
+### I like to play video games Scarlet Hollow and Slay the Princess. But I do also enjoy a challenge with action games like Hades, Hollow Knight, Elden Ring, and Signalis.
+### I also make games! Look at my little visual novels and unreal game on itch.io: https://alienshmalien.itch.io/
+
 
 
 
